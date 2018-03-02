@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ShapeClient
+comment0.text=\r\n\ Benefits\ of\ polymorphism\ shown\ here\:\r\n\ polymorphism\:\ \ \ \ Ability\ for\ the\ same\ code\ to\ be\ used\ with\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ different\ types\ of\ objects\ and\ behave\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ differently\ with\ each.\r\n\r\n\r\n\ @author\ (Mrs.\ Hardy)\r\n\ @version\ (1.1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=void\ printInfo(Shape)
+numComments=3

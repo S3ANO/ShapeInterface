@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ The\ Shape\ interface\ will\ define\ all\ required\ behaviors\ for\ all\ shapes\r\n\r\n\ @author\ (Mrs.\ Hardy)\r\n\ @version\ (1.1)\r\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\r\n\ All\ shapes\ must\ have\ a\ draw\ method\r\n\r\n\ @param\ \ g\ Graphics\ object\ must\ be\ passed\ in\r\n\ @return\ \ \ none\r\n
+comment2.params=
+comment2.target=double\ perimeter()
+comment2.text=\r\n\ All\ shapes\ must\ have\ a\ perimeter\ method\r\n\r\n\ @param\ \ \ \ none\r\n\ @return\ \ \ perimeter\r\n
+comment3.params=
+comment3.target=double\ area()
+comment3.text=\r\n\ All\ shapes\ must\ have\ an\ area\ method\r\n\r\n\ @param\ \ \ \ none\r\n\ @return\ \ \ area\r\n
+numComments=4
